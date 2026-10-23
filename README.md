@@ -1,7 +1,14 @@
 # 🚀 TM Titumir M Shell Dashboard v16.0
-Termux Update 
 
 Welcome to the official **TM Titumir M Shell Dashboard**!
+
+---
+
+## 📸 Dashboard Preview
+
+![TM Titumir M Main Dashboard](Screenshot_20261023_225817.jpg)
+
+![Kali NetHunter Environment](Screenshot_20261023_225847.jpg)
 
 ---
 
